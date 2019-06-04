@@ -1,0 +1,22 @@
+{
+  "name": "lodown-maytd",
+  "version": "1.0.0",
+  "description": "my own lodown library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayTD/lodown.git"
+  },
+  "author": "may do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayTD/lodown/issues"
+  },
+  "homepage": "https://github.com/MayTD/lodown#readme"
+}
